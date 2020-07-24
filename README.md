@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey There I'm Viral👋 who likes Computer and Coding
 
-<!--
-**ViralShastri/ViralShastri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏼‍💻 building Web-Apps, Mobile-Apps
+🧠 learning [NodeJs][NodeJs], [tailwind][tailwind] and [AWS][AWS]  
+💜 loving JavaScript, [tailwind][tailwind] and [Python][Python]  
 
-Here are some ideas to get you started:
+🏡 [website][website] **|**
+👔 [linkedin][linkedin]
+📷 [instagram][instagram] **|** 
+🐦 [twitter][twitter] **|** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[NodeJs]: https://nodejs.org/en/
+[AWS]: https://aws.amazon.com/
+[Python]: https://www.python.org/
+[tailwind]: https://tailwindcss.com
+[website]: https://viralshastri.github.io/portfolio/
+[twitter]: https://twitter.com/ViralShastri19
+[instagram]: https://www.instagram.com/viral.shastri19/
+[linkedin]: https://www.linkedin.com/in/viralshastri1999/
