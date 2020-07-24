@@ -1,7 +1,9 @@
 ### Hey There I'm Viral👋 who likes Computer and Coding
 
 👨🏼‍💻 building Web-Apps, Mobile-Apps
+
 🧠 learning [NodeJs][NodeJs], [tailwind][tailwind] and [AWS][AWS]  
+
 💜 loving JavaScript, [tailwind][tailwind] and [Python][Python]  
 
 🏡 [website][website] **|**
