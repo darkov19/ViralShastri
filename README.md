@@ -5,7 +5,7 @@
 💜 loving JavaScript, [tailwind][tailwind] and [Python][Python]  
 
 🏡 [website][website] **|**
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|**
 📷 [instagram][instagram] **|** 
 🐦 [twitter][twitter] **|** 
 
