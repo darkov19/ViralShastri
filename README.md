@@ -1,8 +1,8 @@
 ### Hey There I'm Viral👋 who likes Computer and Coding
 
 - 👨🏼‍💻 building Web-Apps, Mobile-Apps
-- 🧠 learning [NodeJs][NodeJs], [tailwind][tailwind] and [AWS][AWS]  
-- 💜 loving JavaScript, [tailwind][tailwind] and [Python][Python]  
+- 🧠 learning [GoLang][GoLang], Micro Services and Web Services  
+- 💜 loving JavaScript, [GoLang][GoLang] and [Python][Python]  
 
 🏡 [website][website] **|**
 👔 [linkedin][linkedin] **|**
@@ -17,3 +17,4 @@
 [twitter]: https://twitter.com/ViralShastri19
 [instagram]: https://www.instagram.com/viral.shastri19/
 [linkedin]: https://www.linkedin.com/in/viralshastri1999/
+[GoLang]: https://golang.org/
