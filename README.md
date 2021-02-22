@@ -13,7 +13,7 @@
 [AWS]: https://aws.amazon.com/
 [Python]: https://www.python.org/
 [tailwind]: https://tailwindcss.com
-[website]: https://viralshastri.github.io/portfolio/
+[website]: https://viralshastri.tk
 [twitter]: https://twitter.com/ViralShastri19
 [instagram]: https://www.instagram.com/viral.shastri19/
 [linkedin]: https://www.linkedin.com/in/viralshastri1999/
