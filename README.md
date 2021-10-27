@@ -1,8 +1,7 @@
 ### Hey There I'm Viral👋 who likes Computer and Coding
 
 - 👨🏼‍💻 building Web-Apps, Mobile-Apps.
-- 🧠 learning [Go][Go], [NodeJS], [Docker].
-- 💜 loving [NodeJS], [Go][Go] and [Python][Python].
+- 💜 loving [NodeJS] and [Python][Python].
 
 🏡 [website][website] **|**
 👔 [linkedin][linkedin] **|**
